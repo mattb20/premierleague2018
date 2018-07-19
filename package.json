@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mattb20/premierleague2018/issues"
   },
-  "homepage": "https://github.com/mattb20/premierleague2018#readme"
+  "homepage": "https://github.com/mattb20/premierleague2018#readme",
+  "devDependencies": {
+    "jasmine": "^3.1.0"
+  }
 }
