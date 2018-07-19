@@ -19,5 +19,9 @@
   "homepage": "https://github.com/mattb20/premierleague2018#readme",
   "devDependencies": {
     "jasmine": "^3.1.0"
+  },
+  "dependencies": {
+    "dotenv": "6.0.0",
+    "express": "4.16.3"
   }
 }
